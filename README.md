@@ -5,4 +5,4 @@ This project is a clone of the Apple Vision Pro website, built using HTML, CSS, 
 Demo:
 
 You can view a live demo of the project here.
-**<p align='center'>You can find the website live <a href="https://6656d16b07c6415fc4089e69--apppplevisionpro.netlify.app/">here</a></p>**
+**<p align='center'>You can find the website live <a href="https://apppplevisionpro.netlify.app/">here</a></p>**
